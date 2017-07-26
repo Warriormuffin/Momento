@@ -1,0 +1,5 @@
+/Users/Elg/Projects/Momento/Momento/obj/x86/Debug/Momento.csproj.CoreCompileInputs.cache
+/Users/Elg/Projects/Momento/Momento/bin/Debug/Momento.exe
+/Users/Elg/Projects/Momento/Momento/bin/Debug/Momento.pdb
+/Users/Elg/Projects/Momento/Momento/obj/x86/Debug/Momento.exe
+/Users/Elg/Projects/Momento/Momento/obj/x86/Debug/Momento.pdb
